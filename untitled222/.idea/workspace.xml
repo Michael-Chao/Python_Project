@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ff965fac-4b76-4ec1-b3b7-f1b032e51810" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="1f2584e6-bb62-45d6-a25b-76918122b9d5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../jupyter_notebook_project/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scipy/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scipy/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scipy/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scipy/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scipy/.idea/scipy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scipy/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scipy/scipy_1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jupyter_notebook_project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jupyter_notebook_project/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,22 +18,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Jupyter Notebook" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1T0sEZRxcAghNxEqtZ9FP7nNVLp" />
+  <component name="ProjectId" id="1TWEcJ50xZJ4YUKv1dNQkENhzkA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Python" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -45,19 +43,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ff965fac-4b76-4ec1-b3b7-f1b032e51810" name="Default Changelist" comment="" />
-      <created>1572608236582</created>
+      <changelist id="1f2584e6-bb62-45d6-a25b-76918122b9d5" name="Default Changelist" comment="" />
+      <created>1573567528925</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1572608236582</updated>
-      <workItem from="1572608237687" duration="531000" />
-      <workItem from="1572608800151" duration="163000" />
-      <workItem from="1572608975178" duration="220000" />
-      <workItem from="1572792090303" duration="97000" />
-      <workItem from="1572922749653" duration="111000" />
-      <workItem from="1572922871236" duration="614000" />
-      <workItem from="1573287370002" duration="953000" />
-      <workItem from="1573566632172" duration="40000" />
+      <updated>1573567528925</updated>
+      <workItem from="1573567529977" duration="10000" />
     </task>
     <servers />
   </component>
@@ -69,9 +60,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
