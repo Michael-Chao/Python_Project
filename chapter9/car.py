@@ -1,5 +1,6 @@
 """一个可用于表示汽车的类"""
 
+
 class Car():
     """一次模拟汽车的简单尝试"""
 
@@ -29,6 +30,6 @@ class Car():
         else:
             print("You can't roll back an odometer!")
 
-    def increment_odometer(self,miles):
+    def increment_odometer(self, miles):
         """将里程表增加指定的数"""
         self.odometer_reading += miles
